@@ -10,17 +10,19 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos, contribuir com 
 
 Seja bem-vindo ao meu perfil! 🚀
 
+## 🌐 Conecte-se comigo
+
 <p align="left">
 <a href="https://www.linkedin.com/in/joaovitormaia7/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-
-<a href="https://github.com/joaovitorm7" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dev.joaovitormaia@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/joaovitorm7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
